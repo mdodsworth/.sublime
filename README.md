@@ -1,4 +1,4 @@
- # Settings for Sublime 2
+# Settings for Sublime 2
 
 ## Installation
 

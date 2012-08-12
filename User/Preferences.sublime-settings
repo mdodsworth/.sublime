@@ -1,6 +1,8 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
     "theme": "Soda Dark.sublime-theme",
+    "font_face": "Inconsolata",
+    "font_size": 14.0,
 
 	// vintage related settings
 	"ignored_packages": [],

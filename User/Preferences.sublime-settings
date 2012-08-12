@@ -3,5 +3,9 @@
 
 	// vintage related settings
 	"ignored_packages": [],
-	"vintage_start_in_command_mode": true
+	"vintage_start_in_command_mode": true,
+
+	// Columns in which to display vertical rulers
+    "rulers": [120],
+    "translate_tabs_to_spaces": true
 }

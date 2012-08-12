@@ -1,7 +1,9 @@
 {
-	"auto_upgrade_last_run": 1344727648,
+	"auto_upgrade_last_run": 1344749450,
 	"installed_packages":
 	[
-		"Git"
+		"AdvancedNewFile",
+		"Git",
+		"Package Control"
 	]
 }

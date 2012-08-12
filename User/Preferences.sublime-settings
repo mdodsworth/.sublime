@@ -1,5 +1,6 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+    "theme": "Soda Dark.sublime-theme",
 
 	// vintage related settings
 	"ignored_packages": [],

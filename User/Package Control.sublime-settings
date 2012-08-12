@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1344753281,
+	"auto_upgrade_last_run": 1344805321,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -8,6 +8,7 @@
 		"Git",
 		"GotoRecent",
 		"Jade",
-		"Package Control"
+		"Package Control",
+		"Theme - Soda"
 	]
 }

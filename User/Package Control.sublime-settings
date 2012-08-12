@@ -1,9 +1,12 @@
 {
-	"auto_upgrade_last_run": 1344749450,
+	"auto_upgrade_last_run": 1344753281,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"CoffeeScript",
+		"Gist",
 		"Git",
+		"GotoRecent",
 		"Package Control"
 	]
 }

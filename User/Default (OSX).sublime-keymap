@@ -5,5 +5,16 @@
 			{ "key": "setting.command_mode", "operand": false },
 			{ "key": "setting.is_widget", "operand": false }
 		]
-	}
+  },
+  { "keys": [",", "q"], "command": "close"},
+  { "keys": ["super+w"], "command": "expand_selection", "args": {"to": "scope"} },
+   // remap 'quit' to something more innocuous
+  { "keys": ["super+shift+w"], "command": "copy"},
+  { "keys": [",", "c", "i"], "command": "toggle_comment", "args": { "block": false },
+    "context":
+    [
+      { "key": "setting.command_mode", "operand": true },
+      { "key": "setting.is_widget", "operand": false }
+    ]
+  }
 ]

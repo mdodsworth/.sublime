@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1344805321,
+	"auto_upgrade_last_run": 1345422353,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -9,6 +9,7 @@
 		"GotoRecent",
 		"Jade",
 		"Package Control",
+		"SublimeLinter",
 		"Theme - Soda"
 	]
 }
